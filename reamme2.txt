@@ -1,3 +1,4 @@
 this is a file created using notepad command
 hello testing people devops guys welcome !
-made the changes locally to move to remote repo
+made the changes new locally to move to remote repo
+forth line 
